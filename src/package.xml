@@ -38,11 +38,6 @@
         <name>ListView</name>
     </types>
     <types>
-        <members>PlatformEventMonitorAdminUser</members>
-        <members>PlatformEventMonitorIntegrationUser</members>
-        <name>PermissionSet</name>
-    </types>
-    <types>
         <members>IoT_Explorer</members>
         <name>WaveApplication</name>
     </types>
